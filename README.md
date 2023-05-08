@@ -21,4 +21,4 @@ source ./env/bin/activate
 
 ## Demo 🎥
 
-![demo](https://user-images.githubusercontent.com/60509979/236928443-b45772f8-5543-4d71-96d1-0bd87bdd0ab5.gif)
+![demo](https://user-images.githubusercontent.com/60509979/236934728-8f191d67-2b75-490e-8b16-e217b04ae0db.gif)
