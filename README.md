@@ -27,7 +27,7 @@ source ./env/bin/activate
 
 ### Step Three: Install the PIP packages/dependencies
 ```code
-(env)$ pip install -r requirement.txt
+(env)$ pip install -r requirements.txt
 ```
 
 ### Step Four: Installing Fonts
