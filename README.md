@@ -67,17 +67,17 @@ git clone https://github.com/BitterOcean/Digit-Recognition-Using-Tesseract.git
 
 ### Step Three: Install the tesseract.exe and config pytesseract.py
 download and install tesseract.exe at [tesseract official library](https://digi.bib.uni-mannheim.de/tesseract/?C=M;O=D)
-notice that, by clicking the "Last modified" at the bottom line, you can fast locate the updated version.
-and revise the path line in 'pytesseract.py' (if you have performed the step two correctly)
+notice that, by clicking the `Last modified` at the bottom line, you can fast locate the updated version.
+and revise the path line in `pytesseract.py` (if you have performed the step two correctly)
 ```code
 #tesseract_cmd = 'tesseract'  # original style in the pytesseract.py
 tesseract_cmd = r'D:\Program Files (x86)\Tesseract-OCR\tesseract.exe' #change to your tesseract.exe path
 ```
 ### Step Four: Run the app
-double click 'main.py' in the left column in VSCode, press F5 to run.
+double click `main.py` in the left column in VSCode, press F5 to run.
 
 ## Additional
-Just put .jpg or .png image that you want to recognize in the 'views\dashboard\assets\pic\' folder, then all images will load automatically on loading the GUI. 
+Just put .jpg or .png image that you want to recognize in the `views\dashboard\assets\pic\` folder, then all images will load automatically on loading the GUI. 
 
 ## Demo 🎥
 ![demo](https://user-images.githubusercontent.com/60509979/236934728-8f191d67-2b75-490e-8b16-e217b04ae0db.gif)
