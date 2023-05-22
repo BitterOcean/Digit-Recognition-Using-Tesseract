@@ -54,7 +54,7 @@ In order to make the app's gui look good, you will have to install the Montserra
 ```
 ## VSCode + Win10 Configuration
 
-### Step Zero: Clone the repo
+### Step One: Clone the repo
 ```code
 git clone https://github.com/BitterOcean/Digit-Recognition-Using-Tesseract.git
 ```
@@ -72,8 +72,11 @@ and revise the path line in 'pytesseract.py' (if you have performed the step two
 #tesseract_cmd = 'tesseract'  # original style in the pytesseract.py
 tesseract_cmd = r'D:\Program Files (x86)\Tesseract-OCR\tesseract.exe' #change to your tesseract.exe path
 ```
-### Step Four:
+### Step Four: Run the app
 double click 'main.py' in the left column in VSCode, press F5 to run.
+
+## Additional
+Just put .jpg or .png image that you want to recognize in the 'views\dashboard\assets\pic\' folder, then all images will load automatically on loading the GUI. 
 
 ## Demo 🎥
 ![demo](https://user-images.githubusercontent.com/60509979/236934728-8f191d67-2b75-490e-8b16-e217b04ae0db.gif)
