@@ -12,7 +12,7 @@
     - [Step Three: Install the PIP packages/dependencies](#step-three-install-the-pip-packages-dependencies)
     - [Step Four: Installing Fonts](#step-four-installing-fonts)
     - [Step Five: It's done 🎉 | Run the app](#step-five-it-s-done------run-the-app)
-  - [VSCode + Win10 Configuration](#vscode-win10-configuration)
+  - [VSCode + Win10 Configuration](#vscode--win10-configuration)
     - [Step Zero: Clone the repo](#step-zero-clone-the-repo-1)
     - [Step Two: Install the PIP packages/dependencies](#step-two-install-the-pip-packages-dependencies)
     - [Step Three: Install the tesseract.exe and config pytesseract.py](#step-three-install-the-tesseractexe-and-config-pytesseractpy)
