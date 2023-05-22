@@ -4,6 +4,23 @@
 ![license](https://img.shields.io/github/license/BitterOcean/Digit-Recognition-Using-Tesseract?style=for-the-badge)
 ![pytesseract](https://img.shields.io/pypi/pyversions/pytesseract?style=for-the-badge)
 
+- [Digit-Recognition-Using-Tesseract](#digit-recognition-using-tesseract)
+  * [How to run?](#how-to-run-)
+    + [Step Zero: Clone the repo](#step-zero--clone-the-repo)
+    + [Step One: Cd to the folder](#step-one--cd-to-the-folder)
+    + [Step Two: Create a virtual enviroment and activate it](#step-two--create-a-virtual-enviroment-and-activate-it)
+    + [Step Three: Install the PIP packages/dependencies](#step-three--install-the-pip-packages-dependencies)
+    + [Step Four: Installing Fonts](#step-four--installing-fonts)
+    + [Step Five: It's done 🎉 | Run the app](#step-five--it-s-done------run-the-app)
+  * [VSCode + Win10 Configuration](#vscode---win10-configuration)
+    + [Step Zero: Clone the repo](#step-zero--clone-the-repo-1)
+    + [Step Two: Install the PIP packages/dependencies](#step-two--install-the-pip-packages-dependencies)
+    + [Step Three: Install the tesseract.exe and config pytesseract.py](#step-three--install-the-tesseractexe-and-config-pytesseractpy)
+    + [Step Four:](#step-four-)
+  * [Demo 🎥](#demo---)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 # Digit-Recognition-Using-Tesseract
 This project uses Tesseract, an open-source OCR engine, to recognize digits from an image. Tesseract is trained on a dataset of images containing digits and used to extract the digits from a given image. The output is a set of recognized digits that can be used for further processing or analysis.
 
