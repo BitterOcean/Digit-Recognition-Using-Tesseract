@@ -5,7 +5,7 @@
 ![pytesseract](https://img.shields.io/pypi/pyversions/pytesseract?style=for-the-badge)
 
 - [Digit-Recognition-Using-Tesseract](#digit-recognition-using-tesseract)
-  - [How to run?](#how-to-run)
+  [- [How to run?](#how-to-run)](https://github.com/YXY1988/Digit-Recognition-Using-Tesseract)
     - [Step Zero: Clone the repo](#step-zero-clone-the-repo)
     - [Step One: Cd to the folder](#step-one-cd-to-the-folder)
     - [Step Two: Create a virtual enviroment and activate it](#step-two-create-a-virtual-enviroment-and-activate-it)
@@ -13,10 +13,11 @@
     - [Step Four: Installing Fonts](#step-four-installing-fonts)
     - [Step Five: It's done 🎉 | Run the app](#step-five-it-s-done------run-the-app)
   - [VSCode + Win10 Configuration](#vscode--win10-configuration)
-    - [Step Zero: Clone the repo](#step-zero-clone-the-repo-1)
-    - [Step Two: Install the PIP packages/dependencies](#step-two-install-the-pip-packages-dependencies)
+    - [Step Zero: Clone the repo](#step-one-clone-the-repo)
+    - [Step Two: Install the PIP packages/dependencies](#step-two-install-the-pip-packagesdependencies)
     - [Step Three: Install the tesseract.exe and config pytesseract.py](#step-three-install-the-tesseractexe-and-config-pytesseractpy)
-    - [Step Four:](#step-four-)
+    - [Step Four: Run the app](#step-four-run-the-app)
+  - [Additional](#additional)
   - [Demo 🎥](#demo-)
 
 # Digit-Recognition-Using-Tesseract
