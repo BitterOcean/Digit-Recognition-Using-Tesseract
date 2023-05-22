@@ -65,7 +65,7 @@ git clone https://github.com/BitterOcean/Digit-Recognition-Using-Tesseract.git
 ```
 
 ### Step Three: Install the tesseract.exe and config pytesseract.py
-download and install tesseract.exe at ![tesseract official library](https://digi.bib.uni-mannheim.de/tesseract/?C=M;O=D)
+download and install tesseract.exe at [tesseract official library](https://digi.bib.uni-mannheim.de/tesseract/?C=M;O=D)
 notice that, by clicking the "Last modified" at the bottom line, you can fast locate the updated version.
 and revise the path line in 'pytesseract.py' (if you have performed the step two correctly)
 ```code
