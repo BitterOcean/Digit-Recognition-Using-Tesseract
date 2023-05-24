@@ -2,12 +2,23 @@ from pathlib import Path
 from tkinter import Frame, Canvas, PhotoImage, Entry, Button
 import tkinter as tk
 import pytesseract
+import os
 from PIL import Image, ImageTk
+
+def get_images_list(images_path):
+    images_list = []
+    extensions = ['.png', '.PNG','.jpg','.JPG','.tiff']  # Add more extensions if needed
+    
+    for file in os.listdir(images_path):
+        if file.endswith(tuple(extensions)):
+            images_list.append(file)
+    
+    return images_list
 
 OUTPUT_PATH = Path(__file__).parent
 ASSETS_PATH = OUTPUT_PATH / Path("./assets")
 IMAGES_PATH = ASSETS_PATH / Path("./pic")
-IMAGES_LIST = ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png"]
+IMAGES_LIST = get_images_list(IMAGES_PATH)
 
 
 def relative_to_assets(path: str) -> Path:
