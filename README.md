@@ -5,7 +5,7 @@
 ![pytesseract](https://img.shields.io/pypi/pyversions/pytesseract?style=for-the-badge)
 
 - [Digit-Recognition-Using-Tesseract](#digit-recognition-using-tesseract)
-  - [How to run?](#how-to-run)](https://github.com/YXY1988/Digit-Recognition-Using-Tesseract)
+  - [How to run?](#how-to-run)
     - [Step Zero: Clone the repo](#step-zero-clone-the-repo)
     - [Step One: Cd to the folder](#step-one-cd-to-the-folder)
     - [Step Two: Create a virtual enviroment and activate it](#step-two-create-a-virtual-enviroment-and-activate-it)
