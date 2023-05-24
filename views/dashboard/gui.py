@@ -7,7 +7,7 @@ from PIL import Image, ImageTk
 
 def get_images_list(images_path):
     images_list = []
-    extensions = ['.png', '.PNG']  # Add more extensions if needed
+    extensions = ['.png', '.PNG','.jpg','.JPG','.tiff']  # Add more extensions if needed
     
     for file in os.listdir(images_path):
         if file.endswith(tuple(extensions)):
