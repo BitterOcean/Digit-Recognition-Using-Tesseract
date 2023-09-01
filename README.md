@@ -30,10 +30,15 @@ source ./env/bin/activate
 (env)$ pip install -r requirements.txt
 ```
 
-### Step Four: Installing Fonts
+### Step Four: Installing Tesseract on Ubuntu
+```code
+$ sudo apt install tesseract-ocr -y
+```
+
+### Step Five: Installing Fonts
 In order to make the app's gui look good, you will have to install the Montserrat font. From the `assets` folder, install all three fonts (with `.ttf` format) by double clicking them.
 
-### Step Five: It's done 🎉 | Run the app
+### Step Six: It's done 🎉 | Run the app
 ```code
 (env)$ python main.py
 ```
