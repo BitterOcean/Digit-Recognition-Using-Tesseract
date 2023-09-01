@@ -7,6 +7,9 @@
 # Digit-Recognition-Using-Tesseract
 This project uses Tesseract, an open-source OCR engine, to recognize digits from an image. Tesseract is trained on a dataset of images containing digits and used to extract the digits from a given image. The output is a set of recognized digits that can be used for further processing or analysis.
 
+### Digit-Recognition-Using-Deep-Learning
+<a href="https://colab.research.google.com/drive/1HfauhJPX467NgyHY4QpjuiyO-hcU7lE_?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/Google%20Colab-Source%20Code-%23F9AB00?style=for-the-badge&logo=googlecolab" /> </a>
+
 ## How to run?
 
 ### Step Zero: Clone the repo
